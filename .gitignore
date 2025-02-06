@@ -1,0 +1,7 @@
+/build/Debug
+/.vscode
+build.ninja
+*.ninja
+*.ninja
+*.ninja
+/Core
